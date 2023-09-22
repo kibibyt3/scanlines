@@ -1,0 +1,2 @@
+Makes scanlines crawl down the screen. Requires a terminal capable of handling
+colour and one capable of handling more than 8 colours and colour pairs.
